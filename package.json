@@ -1,0 +1,16 @@
+{
+  "name": "td_backend",
+  "version": "1.0.0",
+  "description": "Simple Sign in / Sign up backend server for mongoose db for our apk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vedanshi Pathak",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  }
+}
